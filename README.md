@@ -35,7 +35,7 @@ A responsive React weather application that fetches and displays real-time weath
 ![Weather Details](screenshots/Screenshot%202025-11-27%20at%2018.35.48.png)
 
 ### Postman API Test
-![Postman Test](screenshots/Screenshot%202025-11-27%20at%2018.54.25.png)
+![Postman Test](screenshots/Screenshot%202025-11-27%20at%2019.08.52.png)
 
 ## Installation
 
